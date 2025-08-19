@@ -181,20 +181,20 @@ section {
     flex: 1;
 }
 
-.secImg {
+.imgBox {
     display: flex;
     justify-content: center;
     align-items: center;
     position: relative;
 }
 
-.secImg img {
+.imgBox img {
     width: 100%;
     position: relative;
     z-index: 10;
 }
 
-.secImg video {
+.imgBox video {
     width: 73%;
     height: auto;
     top: 20%;
